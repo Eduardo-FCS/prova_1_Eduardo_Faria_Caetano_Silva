@@ -20,6 +20,7 @@ public class questao3 {
 				System.out.println(leitura + " - " + leitura);
 			}
 		}
+		scanner.close();
 	}
 
 }
